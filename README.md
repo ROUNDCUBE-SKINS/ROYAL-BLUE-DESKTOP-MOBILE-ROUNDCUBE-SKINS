@@ -9,13 +9,13 @@ Read the instruction to activate the RoundcubeSkins : [Instructions to Use](http
 
 ## Desktop View ##
 
-![Royal Blue Desktop Roundcube Skins](images/rblue.png)
+![Royal Blue Desktop Roundcube Skins](images/royal_blue_mail.png)
 
 ---
 
 ## Mobile View ##
 
-![Royal Blue Mobile Roundcube Skins](images/royal_blue_mail.png)
+![Royal Blue Mobile Roundcube Skins](images/rblue.png)
 
 ---
 
